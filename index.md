@@ -3,13 +3,13 @@ layout: home
 ---
 <body>
 <div class="py-5">
-<h1 class="fw-bold">News clipping KakaoTalk service based on Google Trends</h1>
+<h1 class="fw-bold">News clipping service based on Google Trends</h1>
     <div class="col-lg-8 mx-auto p-4 py-md-5">
         <main>
         <p class="fs-5 col-md-8">
                 We wonder about the trend news of the day before every morning.
                 So, we collect data by crawling Google Trends and Naver news.
-                And, keywords that are extracted from the collect data are sent every morning through KakoTalk Message.
+                And, keywords that are extracted from the collect data are sent every morning through Message.
         </p>
 
 <div class="mb-5">
